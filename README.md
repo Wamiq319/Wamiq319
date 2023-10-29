@@ -33,11 +33,11 @@
 - Bootstrap
 - PHP
 - MySQL
-- Firebase
-- AWS
-- Google Cloud
 - Git
 - GitHub
+- Shopfy
+- Wordpress
+- liquid code
 
 <br>
 
