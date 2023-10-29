@@ -2,7 +2,7 @@
 
 <p align = "center"> 
   <a href = "https://www.upwork.com/freelancers/~01498235e340d4c33b">
-    <img src="upwork-svgrepo-com (1).png" alt = "Upwork Icon" >
+    <img src="upwork-svgrepo-com.png" alt = "Upwork Icon" >
   </a>
   
   <a href = "https://www.linkedin.com/in/akshaya-kulasekaran/">
