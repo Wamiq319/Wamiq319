@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/61582763/195144968-ce4e68fc-39d4-4f1c-856b-2709b7068ba6.gif" width=100% alt="Banner Image">
+<img src="Github.gif" width=100% alt="Banner Image">
 
 <p align = "center"> 
   <a href = "https://twitter.com/Akshu_on_github">
