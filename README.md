@@ -1,8 +1,8 @@
 <img src="Github.gif" width=100% alt="Banner Image">
 
 <p align = "center"> 
-  <a href = "https://twitter.com/Akshu_on_github">
-    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt = "Twitter Icon">
+  <a href = "[https://twitter.com/Akshu_on_github](https://www.upwork.com/freelancers/~01498235e340d4c33b)">
+    <img src="upwork-svgrepo-com (1).png" alt = "Upwork Icon">
   </a>
   
   <a href = "https://www.linkedin.com/in/akshaya-kulasekaran/">
