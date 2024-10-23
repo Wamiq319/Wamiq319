@@ -1,4 +1,4 @@
-<img src="Github.gif" width=100% alt="Banner Image">
+<img src="Banner.png" width=100% alt="Banner Image">
 
 <p align = "center"> 
  <a href = "https://www.upwork.com/freelancers/~01498235e340d4c33b">
