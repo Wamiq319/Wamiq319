@@ -1,6 +1,6 @@
 ![Header](https://via.placeholder.com/1200x300?text=Wamiq+Ashraf+-+Full+Stack+Developer)
 
-# Hi there! 👋 I'm **Wamiq Ashraf**
+# Hi there! 👋 I'm **Wamiq Zahid**
 
 > **Full-Stack Developer** | MERN Stack & Django Specialist | Aspiring Backend AI Engineer
 
