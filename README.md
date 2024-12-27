@@ -1,59 +1,89 @@
-<img src="Banner.png" width=100% alt="Banner Image">
+![Header](https://via.placeholder.com/1200x300?text=Wamiq+Ashraf+-+Full+Stack+Developer)
 
-<p align = "center"> 
- <a href = "https://www.upwork.com/freelancers/~01498235e340d4c33b">
-  <img src="upwork-svgrepo-com.png" alt = "Upwork Icon" >
- </a>
-  
- <a href = "https://www.linkedin.com/in/wamiq-zahid-experienced-web-programmer-85a821202/">
-  <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt = "LinkedIn Icon">
- </a>
+# Hi there! 👋 I'm **Wamiq Ashraf**
 
-</p>
+> **Full-Stack Developer** | MERN Stack & Django Specialist | Aspiring Backend AI Engineer
 
-<img src = "https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" align = "right" alt="my_octocat" width=400px>
+I specialize in building modern, scalable web applications and enjoy solving real-world problems in the education and HR sectors. I aim to transition into AI engineering for backend web applications while expanding my expertise into mobile and desktop development.
 
-<br>
+---
 
-### 🌱 Domains of Interest:
-- Web programming
-- Bug Tracking
-- Web Developing
+## 🚀 **Technical Skills**
 
-### 🍃 Projects:
-- React Dashboard
-- Bootstrap Web
-- 35+ bug Fix project done on fiver related to avascript Cms software
+### 🖥️ **Web Development**
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Django, Flask
+- **Databases:** MongoDB, MySQL, PostgreSQL
 
-### 🛠️ Skills:
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Bootstrap
-- PHP
-- MySQL
-- Git
-- GitHub
-- Shopfy
-- Wordpress
-- liquid code
+### 🧑‍💻 **Programming Languages**
+- **Core Expertise:** JavaScript, Python
+- **Additional:** TypeScript, C++
 
-<br>
+### 🛠️ **Tools & Platforms**
+- Git, GitHub, VS Code, Docker
+- Upwork & Fiverr (Freelancing platforms)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</p>
+### 🌐 **Deployment**
+- **Platforms:** AWS, Vercel, Heroku
+- **Build Tools:** Webpack, Babel
 
-<br>
+---
 
-<p align = "center">
- <a href="https://github.com/Wamiq
+## 🌟 **What I Offer**
+
+- **Custom Web Applications**: Seamless user experiences with modern UI/UX designs.
+- **E-Commerce Solutions**: Robust backend systems for managing products and orders.
+- **Dashboard Applications**: Data-driven dashboards with visual insights.
+- **AI-Driven Web Apps**: Exploring cutting-edge AI integrations.
+
+---
+
+## 🖼️ **Portfolio Highlights**
+
+### 🌴 **Jeju Island Tourism Website**
+A vibrant tourist website featuring:
+- Dynamic picture gallery
+- Ticket purchasing & inquiry forms
+
+![Jeju Island Demo](https://via.placeholder.com/800x400?text=Project+Demo)
+
+### 🛒 **E-Commerce Platform**
+Modern e-commerce application with:
+- Product listing, draft, and unpublished product management
+- Dynamic product variants and poster banners
+
+![E-Commerce Demo](https://via.placeholder.com/800x400?text=E-Commerce+Platform)
+
+---
+
+## 🌍 **Connect With Me**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Wamiq--Ashraf-black?style=flat-square&logo=github)](https://github.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wamiq%20Ashraf-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-orange?style=flat-square&logo=firefox)](https://your-portfolio-link.com)
+
+---
+
+## 🎯 **Current Goals**
+
+- 🎓 Deepen expertise in backend AI engineering with Flask.
+- 🌟 Secure high-paying industry-level clients for freelance projects.
+- 📱 Expand skill set into mobile and desktop application development.
+
+---
+
+## 📈 **GitHub Stats**
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 💼 **Freelance Platforms**
+
+[![Upwork](https://img.shields.io/badge/Upwork-Wamiq--Ashraf-success?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/your-profile)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Wamiq--Ashraf-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/your-profile)
+
+---
+
+*Feel free to reach out for collaborations, freelance opportunities, or tech discussions!* 🙌
