@@ -54,7 +54,7 @@ I specialize in building modern, scalable web applications and enjoy solving rea
 ## 📈 **GitHub Stats**
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wamiq319&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wamiq319f&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wamiq319&layout=compact&theme=radical)
 
 ---
 
