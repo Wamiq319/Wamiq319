@@ -5,7 +5,7 @@ A self-taught Software Engineer specializing in building scalable web applicatio
 ---
 
 
-<div align="center">
+<div align="left">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wamiq319&radius=16&theme=dracula&area=false&order=5&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
