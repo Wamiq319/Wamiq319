@@ -29,17 +29,9 @@ A self-taught Software Engineer specializing in building scalable web applicatio
 
 <p align="left">
    <img src="./html.png" alt="html5" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="45"/>
-
-
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="45"/>
+   <img src="./css-3.png" alt="html5" height="40"/>
+   <img src="./physics.png" alt="html5" height="40"/>
  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="45"/>
-
 </p>
 
 ## 🚀 **Deployment**
