@@ -31,6 +31,7 @@ A self-taught Software Engineer specializing in building scalable web applicatio
    <img src="./html.png" alt="html5" height="40"/>
    <img src="./css-3.png" alt="html5" height="40"/>
    <img src="./physics.png" alt="html5" height="40"/>
+   <img src="./nodejs.png" alt="html5" height="40"/>
  
 </p>
 
