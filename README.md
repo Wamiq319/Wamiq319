@@ -38,8 +38,8 @@ A self-taught Software Engineer specializing in building scalable web applicatio
 ## 🚀 **Deployment**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="45"/>
+ <img src="./docker.png" alt="html5" height="40"/>
+ <img src="./aws.png" alt="html5" height="40"/>
 </p>
 
 
