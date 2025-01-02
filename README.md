@@ -54,8 +54,8 @@ A self-taught Software Engineer specializing in building scalable web applicatio
   <a href="https://www.fiverr.com/wamiq139" target="_blank">
     <img src="./Fiver.png" alt="fiver" height="40"/>
   </a>
-  <a href="https://link-to-upwork.com" target="_blank">
-    <img src="https://www.upwork.com/freelancers/~01498235e340d4c33b?mp_source=share" alt="upwork" height="40"/>
+  <a href="https://www.upwork.com/freelancers/~01498235e340d4c33b?mp_source=share" target="_blank">
+    <img src="./Upwork.png" alt="upwork" height="40"/>
   </a>
 </p>
 
