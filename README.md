@@ -11,8 +11,8 @@
 
 
 ## 🚀 **Core Languages**
-<div align="left">
-   <img src="https://streak-stats.demolab.com?user=Wamiq319&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div style="text-align: left;">
+    <img src="https://streak-stats.demolab.com?user=Wamiq319&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 <p align="left">
   <img src="./python.png" alt="Python" height="40" />
