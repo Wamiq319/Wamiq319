@@ -48,7 +48,6 @@ A self-taught Software Engineer specializing in building scalable web applicatio
 - **Mobile Development 📱**: Learn **React Native** to build cross-platform mobile apps.
 - **Web Security 🕵️‍♂️**: Explore **ethical hacking** and web security.
 - **Linux Mastery 🐧**: Transition to **linux Parrot OS** for development and security testing.
-Looking forward to expanding my skills and contributing to exciting projects!
 
 
 
