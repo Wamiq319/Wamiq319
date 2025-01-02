@@ -1,10 +1,5 @@
 # Hi there! 👋 I'm **Wamiq Zahid**  
 ### <span style="font-size: 24px;">A</span> <span style="color: green; font-weight: bold; font-size: 24px;">Self-taught</span> <span style="font-size: 14px;">Software Engineer specializing in building scalable web applications, backend systems, deployment, and delivering value-driven digital solutions with clean code and robust architecture.</span>
-
-
-.
-
-
 ---
 
 
@@ -33,8 +28,10 @@
 <p align="left">
    <img src="./html.png" alt="html5" height="40"/>
    <img src="./css-3.png" alt="html5" height="40"/>
+   <img src="./Tailwind.png" alt="html5" height="40"/>
    <img src="./physics.png" alt="html5" height="40"/>
    <img src="./nodejs.png" alt="html5" height="40"/>
+   <img src="./Mongodb.png" alt="html5" height="40"/>
  
 </p>
 
