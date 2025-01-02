@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm **Wamiq Zahid**  
-A self-taught Software Engineer specializing in building scalable web applications, backend systems, deployment, and delivering value-driven digital solutions with clean code and robust architecture.
+### A **self-taught** Software Engineer specializing in building scalable web applications, backend systems, deployment, and delivering value-driven digital solutions with clean code and robust architecture.
+.
 
 
 ---
