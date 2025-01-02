@@ -42,6 +42,16 @@ A self-taught Software Engineer specializing in building scalable web applicatio
  <img src="./aws.png" alt="html5" height="40"/>
 </p>
 
+## 🚀 Future Goals for 2025
+
+- **Backend & Deployment 🌐**: Enhance skills in **Kubernetes**, **CLI**, **PostgreSQL**, and **TypeScript** for backend development.
+- **Mobile Development 📱**: Learn **React Native** to build cross-platform mobile apps.
+- **Web Security 🕵️‍♂️**: Explore **ethical hacking** and web security.
+- **Linux Mastery 🐧**: Transition to **linux Parrot OS** for development and security testing.
+Looking forward to expanding my skills and contributing to exciting projects!
+
+
+
 
 
 
