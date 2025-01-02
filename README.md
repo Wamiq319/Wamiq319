@@ -11,20 +11,18 @@
 
 
 ## 🚀 **Core Languages**
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wamiq319&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=dracula&hide_border=false&order=2" height="159" alt="languages graph"  />
-</p>
+<div align="left">
+   <img src="https://streak-stats.demolab.com?user=Wamiq319&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 <p align="left">
   <img src="./python.png" alt="Python" height="40" />
   <img src="./js.png" alt="JavaScript" height="40" />
 </p>
 
 ## 🚀 **Development**
-<div align="left">
-   <img src="https://streak-stats.demolab.com?user=Wamiq319&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wamiq319&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=dracula&hide_border=false&order=2" height="159" alt="languages graph"  />
+</p>
 <p align="left">
    <img src="./html.png" alt="html5" height="40"/>
    <img src="./css-3.png" alt="html5" height="40"/>
