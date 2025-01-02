@@ -31,7 +31,10 @@
    <img src="./Tailwind.png" alt="html5" height="40"/>
    <img src="./physics.png" alt="html5" height="40"/>
    <img src="./nodejs.png" alt="html5" height="40"/>
+   <img src="./Express.png" alt="html5" height="40"/>
    <img src="./Mongodb.png" alt="html5" height="40"/>
+   <img src="./Django.png" alt="html5" height="40"/>
+   <img src="./Flask.png" alt="html5" height="40"/>
  
 </p>
 
