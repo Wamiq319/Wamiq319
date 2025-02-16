@@ -57,7 +57,7 @@
   <a href="https://www.upwork.com/freelancers/~01498235e340d4c33b?mp_source=share" target="_blank">
     <img src="./Upwork.png" alt="upwork" height="40"/>
   </a>
-  <a href="www.linkedin.com/in/wamiq319" target="_blank">
+  <a href="https://www.linkedin.com/in/wamiq319" target="_blank">
     <img src="./linkedin.png" alt="linkedin" height="40"/>
   </a>
 </p>
