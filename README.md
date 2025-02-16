@@ -49,7 +49,6 @@
 - **Mobile Development 📱**: Learn **React Native** to build cross-platform mobile apps.
 - **Web Security 🕵️‍♂️**: Explore **ethical hacking** and web security.
 - **Linux Mastery 🐧**: Transition to **linux Parrot OS** for development and security testing.
-- 
 ## 🚀 Connect With Me
 <p align="left">
   <a href="https://www.fiverr.com/wamiq139" target="_blank">
@@ -57,6 +56,9 @@
   </a>
   <a href="https://www.upwork.com/freelancers/~01498235e340d4c33b?mp_source=share" target="_blank">
     <img src="./Upwork.png" alt="upwork" height="40"/>
+  </a>
+  <a href="www.linkedin.com/in/wamiq319" target="_blank">
+    <img src="./linkedin.png" alt="linkedin" height="40"/>
   </a>
 </p>
 
