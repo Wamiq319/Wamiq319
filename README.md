@@ -43,7 +43,7 @@
  <img src="./aws.png" alt="html5" height="40"/>
 </p>
 
-## 🚀 Future Goals for 2025
+## 🚀 Learning Goals for 2025
 
 - **Backend & Deployment 🌐**: Enhance skills in **Kubernetes**, **CLI**, **PostgreSQL**, and **TypeScript** for backend development.
 - **Mobile Development 📱**: Learn **React Native** to build cross-platform mobile apps.
