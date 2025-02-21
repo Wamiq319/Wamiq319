@@ -48,7 +48,7 @@
 - **Backend & Deployment 🌐**: Enhance skills in **Kubernetes**, **CLI**, **PostgreSQL**, and **TypeScript** for backend development.
 - **Mobile Development 📱**: Learn **React Native** to build cross-platform mobile apps.
 - **Web Security 🕵️‍♂️**: Explore **ethical hacking** and web security.
-- **Linux Mastery 🐧**: Transition to **linux Parrot OS** for development and security testing.
+- **Linux Mastery 🐧**: Transition to **linux** for more control
 ## 🚀 Connect With Me
 <p align="left">
   <a href="https://www.fiverr.com/wamiq139" target="_blank">
