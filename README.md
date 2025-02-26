@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm **Wamiq Zahid**  
-### <span style="font-size: 24px;">A</span> <span style="color: green; font-weight: bold; font-size: 24px;">Self-taught</span> <span style="font-size: 14px;">Software Engineer specializing in building End to End scalable web applications, backend systems, deployment, and delivering value-driven digital solutions with clean code and robust architecture.</span>
+### <span style="font-size: 24px;">A</span> <span style="color: green; font-weight: bold; font-size: 24px;">Self-taught</span> <span style="font-size: 14px;">Software Developer specializing in building End to End scalable web applications, backend systems, deployment, and delivering value-driven digital solutions with clean code and robust architecture.</span>
 ---
 
 
