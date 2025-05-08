@@ -50,15 +50,16 @@ Let’s build something that delivers real business results.
 ## 🔥 **Portfolio Projects**  
 <div>
   <a href="https://kap-frontend-iota.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/KAP_Ticket_Management-00BFFF?style=for-the-badge&logo=react&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/KAP_Ticket_Management-00BFFF?style=for-the-badge&logo=Kapture&logoColor=white" height="25"/>
   </a>
   <a href="https://www.eweland.com" target="_blank">
-    <img src="https://img.shields.io/badge/Eweland_Custom_Map-00BFFF?style=for-the-badge&logo=react&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Eweland_Custom_Map-00BFFF?style=for-the-badge&logo=map&logoColor=white" height="25"/>
   </a>
   <a href="https://github.com/Wamiq319/React_Admin_Panel" target="_blank">
     <img src="https://img.shields.io/badge/React_Admin_Panel-00BFFF?style=for-the-badge&logo=react&logoColor=white" height="25"/>
   </a>
 </div>
+
 
 ---
 
