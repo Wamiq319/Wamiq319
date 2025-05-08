@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm **Wamiq Zahid**  
-### **SaaS & Web3 Full-Stack Developer**  
-Specializing in **high-converting SaaS platforms**, **scalable web apps**, and **cross-platform mobile solutions** with React Native. I deliver end-to-end digital products with clean architecture and measurable results.
+### 🚀 **SaaS & Web3 Full-Stack Developer**  
+I help startups and businesses build **high-converting SaaS platforms**, **scalable web apps**, and **Web3 solutions** — integrated with **AI automation** and **agent workflows**.  
+Let’s build something that delivers real business results.
 
 ---
 
@@ -10,27 +11,58 @@ Specializing in **high-converting SaaS platforms**, **scalable web apps**, and *
 
 ---
 
-## 🛠 **SaaS Development Stack**  
+## 🛠 **My Stack**  
 
-### **Frontend**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>  
+### 🌐 Frontend  
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/> 
+</div>
 
-### **Backend**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>  
+### 🔥 Backend  
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhooks&logoColor=white" height="25"/> 
+</div>
 
-### **Deployment**  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/>  
+### ☁️ DevOps & Cloud  
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25"/> 
+</div>
+
+### 🤖 AI, Automation & APIs  
+<div>
+  <img src="https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/DeepSeek_AI-000000?style=for-the-badge&logo=deepnote&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="25"/> 
+</div>
 
 ---
 
-## 🔥 **Recent Projects**  
-• **SaaS Dashboard Template** - React + Node.js + MongoDB  
-• **E-commerce Mobile App** - React Native + Firebase  
-• **Web3 Landing Page** - Next.js + Tailwind CSS  
+## 🔥 **Portfolio Projects**  
+<div>
+  <a href="https://kap-frontend-iota.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/KAP_Ticket_Management-00BFFF?style=for-the-badge&logo=react&logoColor=white" height="25"/>
+  </a>
+  <a href="https://www.eweland.com" target="_blank">
+    <img src="https://img.shields.io/badge/Eweland_Custom_Map-00BFFF?style=for-the-badge&logo=react&logoColor=white" height="25"/>
+  </a>
+  <a href="https://github.com/Wamiq319/React_Admin_Panel" target="_blank">
+    <img src="https://img.shields.io/badge/React_Admin_Panel-00BFFF?style=for-the-badge&logo=react&logoColor=white" height="25"/>
+  </a>
+</div>
 
 ---
 
-## 📈 **GitHub Stats**  
+## 📊 **GitHub Stats**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wamiq319&show_icons=true&theme=dracula&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wamiq319&layout=compact&theme=dracula&hide_border=true" height="165"/>
@@ -38,16 +70,21 @@ Specializing in **high-converting SaaS platforms**, **scalable web apps**, and *
 
 ---
 
-## 🚀 **Learning Goals for 2024**  
-• **Advanced React Native** for cross-platform SaaS apps  
-• **AWS Certified Developer** certification  
-• **Web3 Integration** with Ethereum/Solana  
-
----
-
-## 💬 **Let's Build Your Next SaaS!**  
-<a href="https://www.fiverr.com/wamiq139" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="25"/></a>
-<a href="https://www.upwork.com/freelancers/wamiqz?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="25"/></a>
-<a href="https://www.freelancer.com/u/wamiqzahid319?frm=wamiqzahid319&sb=t" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" height="25"/></a>
-<a href="https://www.linkedin.com/in/wamiq319" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
+## 💬 **Let’s Build Your Next SaaS**  
+<div>
+  <a href="https://www.fiverr.com/wamiq139" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="25"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/wamiqz?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="25"/>
+  </a>
+  <a href="https://www.freelancer.com/u/wamiqzahid319?frm=wamiqzahid319&sb=t" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" height="25"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wamiq319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+  <a href="mailto:wamiqzahid319@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+  </a>
+</div>
