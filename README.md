@@ -42,16 +42,16 @@ Let’s build something that delivers real business results.
 </div>
 
 ### 🤖 AI, Automation & APIs  
-<div>
+<div>  
   <img src="https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/Voice_Agents-6A1B9A?style=for-the-badge&logo=voicemod&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Chat_Agents-0288D1?style=for-the-badge&logo=wechat&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/DeepSeek_AI-000000?style=for-the-badge&logo=deepnote&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Respeecher-000000?style=for-the-badge&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/Relevance_AI-000000?style=for-the-badge&logo=reverbnation&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/Voice_Agents-6A1B9A?style=for-the-badge&logo=voicemod&logoColor=white" height="25"/> 
-  <img src="https://img.shields.io/badge/Chat_Agents-0288D1?style=for-the-badge&logo=wechat&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Relevance_AI-000000?style=for-the-badge&logo=reverbnation&logoColor=white" height="25"/>   
 </div>
 
 ---
