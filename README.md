@@ -2,7 +2,7 @@
 ### 🚀 **SaaS & Web3 Full-Stack Developer**  
 
   
-We  PrimeSol help startups and businesses build **high-converting SaaS platforms**, **scalable Web apps**, and **Web3 solutions** — integrated with **AI automation** and **agent workflows**.  
+I help startups and businesses build **high-converting SaaS platforms**, **scalable Web apps**, and **Web3 solutions** — integrated with **AI automation** and **agent workflows**.  
 Let’s build something that delivers real business results.
 
 ---
@@ -13,7 +13,7 @@ Let’s build something that delivers real business results.
 
 ---
 
-## 🛠 **Our Stack**  
+## 🛠 **My Stack**  
 
 ### 🌐 Frontend  
 <div>
