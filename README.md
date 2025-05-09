@@ -1,17 +1,19 @@
 # Hi there! 👋 I'm **Wamiq Zahid**  
 ### 🚀 **SaaS & Web3 Full-Stack Developer**  
-I help startups and businesses build **high-converting SaaS platforms**, **scalable web apps**, and **Web3 solutions** — integrated with **AI automation** and **agent workflows**.  
+
+  
+We  PrimeSol help startups and businesses build **high-converting SaaS platforms**, **scalable Web apps**, and **Web3 solutions** — integrated with **AI automation** and **agent workflows**.  
 Let’s build something that delivers real business results.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wamiq319&theme=dracula&hide_border=true&area=true&custom_title=My%20Coding%20Activity" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wamiq319&theme=dracula&hide_border=true&area=true&custom_title=Our%20Coding%20Activity" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 🛠 **My Stack**  
+## 🛠 **Our Stack**  
 
 ### 🌐 Frontend  
 <div>
@@ -33,6 +35,8 @@ Let’s build something that delivers real business results.
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25"/> 
 </div>
@@ -43,23 +47,12 @@ Let’s build something that delivers real business results.
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/DeepSeek_AI-000000?style=for-the-badge&logo=deepnote&logoColor=white" height="25"/> 
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Respeecher-000000?style=for-the-badge&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Relevance_AI-000000?style=for-the-badge&logo=reverbnation&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Voice_Agents-6A1B9A?style=for-the-badge&logo=voicemod&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/Chat_Agents-0288D1?style=for-the-badge&logo=wechat&logoColor=white" height="25"/> 
 </div>
-
----
-
-## 🔥 **Portfolio Projects**  
-<div>
-  <a href="https://kap-frontend-iota.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/KAP_Ticket_Management-00BFFF?style=for-the-badge&logo=Kapture&logoColor=white" height="25"/>
-  </a>
-  <a href="https://www.eweland.com" target="_blank">
-    <img src="https://img.shields.io/badge/Eweland_Custom_Map-00BFFF?style=for-the-badge&logo=map&logoColor=white" height="25"/>
-  </a>
-  <a href="https://github.com/Wamiq319/React_Admin_Panel" target="_blank">
-    <img src="https://img.shields.io/badge/React_Admin_Panel-00BFFF?style=for-the-badge&logo=react&logoColor=white" height="25"/>
-  </a>
-</div>
-
 
 ---
 
