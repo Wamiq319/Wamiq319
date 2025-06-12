@@ -1,11 +1,4 @@
-# Hi there! 👋 I'm **Wamiq Zahid**  
-### 🚀 **SaaS & Web3 Full-Stack Developer**  
 
-  
-I help startups and businesses build **high-converting SaaS platforms**, **scalable Web apps**, and **Web3 solutions** — integrated with **AI automation** and **agent workflows**.  
-Let’s build something that delivers real business results.
-
----
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wamiq319&theme=dracula&hide_border=true&area=true&custom_title=Our%20Coding%20Activity" alt="Activity Graph"/>
