@@ -1,8 +1,6 @@
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wamiq319&theme=dracula&hide_border=true&area=true&custom_title=Our%20Coding%20Activity" alt="Activity Graph"/>
-</div>
+
 
 ---
 
@@ -55,19 +53,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wamiq319&layout=compact&theme=dracula&hide_border=true" height="165"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wamiq319&theme=dracula&hide_border=true&area=true&custom_title=Our%20Coding%20Activity" alt="Activity Graph"/>
+</div>
+
 ---
 
 ## 💬 **Let’s Build Your Next SaaS**  
 <div>
-  <a href="https://www.fiverr.com/wamiq139" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="25"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/wamiqz?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="25"/>
-  </a>
-  <a href="https://www.freelancer.com/u/wamiqzahid319?frm=wamiqzahid319&sb=t" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" height="25"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/wamiq319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
